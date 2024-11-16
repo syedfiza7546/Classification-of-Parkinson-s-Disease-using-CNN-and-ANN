@@ -14,7 +14,6 @@ The work was presented at the **International Conference on Advances in Computin
 ---
 
 ## Repository Link
-
 The project repository is available on GitHub:  
 👉 [Classification of Parkinson's Disease using CNN and ANN](https://github.com/syedfiza7546/Classification-of-Parkinson-s-Disease-using-CNN-and-ANN)
 
