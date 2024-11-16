@@ -5,5 +5,4 @@ This project focuses on the classification of Parkinson's Disease using Convolut
 
 The full paper is available on IEEE Xplore:
 
-👉 Classification of Parkinson's Disease:
 https://ieeexplore.ieee.org/abstract/document/9823915
