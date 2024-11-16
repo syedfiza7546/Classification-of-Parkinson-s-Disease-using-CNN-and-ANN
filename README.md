@@ -19,11 +19,3 @@ The project repository is available on GitHub:
 👉 [Classification of Parkinson's Disease using CNN and ANN](https://github.com/syedfiza7546/Classification-of-Parkinson-s-Disease-using-CNN-and-ANN)
 
 ---
-
-## References
-
-- IEEE Xplore: [Classification of Parkinson's Disease](https://ieeexplore.ieee.org/abstract/document/9823915)
-
---- 
-
-Let me know if this works or needs more updates!
