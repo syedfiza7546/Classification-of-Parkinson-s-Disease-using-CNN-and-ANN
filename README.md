@@ -9,12 +9,13 @@ This paper analyzes multiple drawing evaluation methods and diagnostic technique
 For acoustic feature data, a Decision Tree and ANN were utilized with GridSearchCV optimization, achieving an impressive 98% accuracy on testing data.
 
 The work was presented at the **International Conference on Advances in Computing, Communication, and Intelligent Systems in Engineering (ICACITE)** and is available on IEEE Xplore:  
+
 👉 [Classification of Parkinson's Disease](https://ieeexplore.ieee.org/abstract/document/9823915)
 
 ---
 
 ## Repository Link
-The project repository is available on GitHub:  
+
 👉 [Classification of Parkinson's Disease using CNN and ANN](https://github.com/syedfiza7546/Classification-of-Parkinson-s-Disease-using-CNN-and-ANN)
 
 ---
